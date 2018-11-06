@@ -15,11 +15,11 @@ In this project, you will use data provided by Motivate, a bike share system pro
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
 
 - Start Time (e.g., 2017-01-01 00:07:57)
-2. End Time (e.g., 2017-01-01 00:20:53)
-3. Trip Duration (in seconds - e.g., 776)
-4. Start Station (e.g., Broadway & Barry Ave)
-5. End Station (e.g., Sedgwick St & North Ave)
-6. User Type (Subscriber or Customer)
+- End Time (e.g., 2017-01-01 00:20:53)
+- Trip Duration (in seconds - e.g., 776)
+- Start Station (e.g., Broadway & Barry Ave)
+- End Station (e.g., Sedgwick St & North Ave)
+- User Type (Subscriber or Customer)
 
 The Chicago and New York City files also have the following two columns:
 
@@ -40,7 +40,7 @@ Helpful resources during the project
 
 Pandas:
 
-1. http://nbviewer.jupyter.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/03%20-%20Lesson.ipynb
+-  http://nbviewer.jupyter.org/urls/bitbucket.org/hrojas/learn-pandas/raw/master/lessons/03%20-%20Lesson.ipynb
 - https://pandas.pydata.org/pandas-docs/stable/tutorials.html
 - https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
 - https://morphocode.com/pandas-cheat-sheet/
@@ -48,15 +48,15 @@ Pandas:
 
 Functions
 
-1. https://github.com/jackgris/myblog/blob/master/site/content/post/lenguaje-go-funciones-y-bucles.md
-2. http://pythonexample.com/
+- https://github.com/jackgris/myblog/blob/master/site/content/post/lenguaje-go-funciones-y-bucles.md
+-  http://pythonexample.com/
 - https://github.com/xhlow/udacity-bikeshare-project/blob/master/bikeshare.py
 - https://github.com/andandandand/bikeshare/blob/master/bikeshare.py
 - https://github.com/kazimreza/Udacity-Bikeshare-Project/blob/master/bikeshare4.py
 
 Python ( Control )
 
-1. https://entrenamiento-python-basico.readthedocs.io/es/latest/leccion4/bucle_while.html
+- https://entrenamiento-python-basico.readthedocs.io/es/latest/leccion4/bucle_while.html
 - http://www.mclibre.org/consultar/python/lecciones/python-if-else.html
 - http://www.mclibre.org/consultar/python/lecciones/python-for.html
 - http://www.mclibre.org/consultar/python/lecciones/python-for-2.html
@@ -64,5 +64,5 @@ Python ( Control )
 - https://github.com/andandandand/bikeshare/blob/master/bikeshare.py
 
 Plot
-1. https://matplotlib.org/api/_as_gen/matplotlib.pyplot.hist.html
-2. https://pythonspot.com/matplotlib-histogram/
+-  https://matplotlib.org/api/_as_gen/matplotlib.pyplot.hist.html
+-  https://pythonspot.com/matplotlib-histogram/
