@@ -26,7 +26,7 @@ def get_city():
             if city in cities :
                 break
             else:
-                print("Sorry but you only can choose either Chicago, New York City or Washington. ")
+                print("Choose either Chicago, New York City or Washington. ")
         except:
                 print("Ups! Something went wrong....")
     return city
@@ -61,7 +61,7 @@ def get_day():
     Asks user to specify a day to analyze.
 
     Returns:
-        (str) day - name of the day of week to filter by, or "all" to apply no day filter.
+        (str) day - name of the day of week to filter by, type "all" to apply no day filter.
     """
     while True:
         try:
@@ -74,7 +74,7 @@ def get_day():
             else:
                 print("Sorry but you only can choose a dayoftheweek's name or the word all to avoid filtering. ")
         except:
-                print("Ups! Something went wrong....")
+                print("Ups! Something went wrong.")
     return day
     print('-'*50)
     print('-'*50)
