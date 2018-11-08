@@ -1,5 +1,5 @@
 ### Date created
-Tuesday, November 26, 2018
+Thursday, November 8, 2018
 
 ### Project Title
 Bikeshare Analysis of Chicago, NYC and Washington DC Bikeshare usage with Python.
