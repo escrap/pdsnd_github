@@ -8,7 +8,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'washington': 'washington.csv' }
 
 print("-"*45)
-print('Hello! Let\'s explore some US bikeshare data!')
+print('Hello!If you want, let\'s explore some US bikeshare data!')
 print("-"*45)
 
 def get_city():
